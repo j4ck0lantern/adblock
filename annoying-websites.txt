@@ -1,8 +1,8 @@
 [Adblock Plus 3.1]
-! Version: massive-irritants-2021mar14
+! Version: massive-irritants-2021jul14
 ! Title: Annoying Websites
-! Last modified: 2021mar14
-! Expires: 4 days (update frequency)
+! Last modified: 2021jul14
+! Expires: 1 days (update frequency)
 ! Homepage: n/a
 !
 !### BUSINESSINSIDER
@@ -22,3 +22,5 @@ jigsaw.vitalsource.com###pbk-selection
 jigsaw.vitalsource.com###pbk-penguins
 jigsaw.vitalsource.com###pbk-glyphs
 jigsaw.vitalsource.com###pbk-extras
+!### Consent Banners
+##*.js-consent-banner
