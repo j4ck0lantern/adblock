@@ -1,0 +1,24 @@
+[Adblock Plus 3.1]
+! Version: massive-irritants-2021mar14
+! Title: Annoying Websites
+! Last modified: 2021mar14
+! Expires: 4 days (update frequency)
+! Homepage: n/a
+!
+!### BUSINESSINSIDER
+||buy.tinypass.com*
+businessinsider.com##.tp-backdrop.tp-active
+businessinsider.com##.tp-modal
+!### TUTORIAL-DOJO
+||k2y3h8q6.stackpathcdn.com/wp-content/uploads/2021/03/TD-Portal-First-Anniv-Sale-Strip-Ad.jpg
+tutorialsdojo.com##.fusion-layout-column.fusion_builder_column.fusion_builder_column_1_3.fusion-one-third.fusion-column-last.\31 _3
+tutorialsdojo.com##.promotion-header.active
+tutorialsdojo.com##.fusion-secondary-header
+tutorialsdojo.com##.promotion-header__box
+!### VITALSOURCE
+jigsaw.vitalsource.com###pbk-tts-v2
+jigsaw.vitalsource.com###pbk-search
+jigsaw.vitalsource.com###pbk-selection
+jigsaw.vitalsource.com###pbk-penguins
+jigsaw.vitalsource.com###pbk-glyphs
+jigsaw.vitalsource.com###pbk-extras
